@@ -1,0 +1,7 @@
+karma.conf.js
+node_modules
+*.pyc
+reaktorkesa2018/db.sqlite3
+.venv
+/static
+reaktorkesa2018/weathersurveillance/tests
